@@ -39,10 +39,10 @@ dependencies:
 
 #### 2. Clone the repo
 
-$ git clone https://github.com/mohak1283/Instagram-Clone
+$ git clone https://github.com/Ab-Aayan/Scratch-Card.git
 
 #### 3. include important files
-- we don't include some files like android,build so kindly create your own project and copy lib file.
+- we doesn't include some files like android,build so kindly create your own project and copy lib file.
 
 
  
@@ -53,12 +53,6 @@ $ git clone https://github.com/mohak1283/Instagram-Clone
 <a href="https://www.linkedin.com/in/abdul-hanan-ansari-73922b215"><img src="https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png" width="60"></a>
 
 
-## How to Contribute
-1. Fork the the project
-2. Create your feature branch (git checkout -b my-new-feature)
-3. Make required changes and commit (git commit -am 'Add some feature')
-4. Push to the branch (git push origin my-new-feature)
-5. Create new Pull Request
 
 ## License
 

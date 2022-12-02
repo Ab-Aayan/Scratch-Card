@@ -20,12 +20,9 @@ Giving cashback, rewards & different kinds of online shopping voucher is a clean
 
 
 <p>
-<img src="https://user-images.githubusercontent.com/35039342/55468409-ef956b80-5620-11e9-9906-7e8ca89b4b49.png" alt="feed example" width = "400" >
-<img src="https://user-images.githubusercontent.com/35039342/55468436-fa500080-5620-11e9-8475-28f291c4b1f6.png" alt="upload photo example"width = "400" >
-<img src="https://user-images.githubusercontent.com/35039342/55468489-1a7fbf80-5621-11e9-81d5-66d0535e0cde.png" alt="go to a profile from feed" width = "400">
-<img src="https://user-images.githubusercontent.com/35039342/55468561-4a2ec780-5621-11e9-806c-69861f6bee32.png" alt="edit profile example" width = "400" >
-<img src="https://user-images.githubusercontent.com/35039342/55468603-5b77d400-5621-11e9-9ca7-5f4f421f400f.png" alt="comment and activity feed example" width = "400">
-  
+<img src="https://user-images.githubusercontent.com/93578138/205304472-38e990f8-9870-4161-8198-0ee0ff6b2ed3.jpg" alt="feed example" width = "400" >
+<img src="https://user-images.githubusercontent.com/93578138/205304483-9b797b6a-fb24-485e-af72-bd2c0030af00.jpg" alt="upload photo example"width = "400" >
+<img src="https://user-images.githubusercontent.com/93578138/205304485-033035ef-dd86-45bd-bd61-b201b89c6402.jpg" alt="go to a profile from feed" width = "400">
 </p>
 
 

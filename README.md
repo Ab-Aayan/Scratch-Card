@@ -11,21 +11,7 @@ This repository is still under development and I will continue to add more featu
 
 ## Features
 
- * Custom photo feed based on who you follow
- * Post photo posts from camera or gallery
-   * Like posts
-      * View all likes on a post
-   * Comment on posts
-        * View all comments on a post
- * Search for users
-    * Search screen showing all images except your own
-    * Search based on usernames
- * Profile Screen
-   * Follow / Unfollow Users
-   * Change image view from grid layout to feed layout
-   * Edit profile
- * Chat Screen
-    * Chat with any user
+Giving cashback, rewards & different kinds of online shopping voucher is a clean move to market your app and keep your app users engaged using your application on daily basics, rewarding scratch card rewards is like a lottery to your app user.
     * Share images while chatting
  
 
@@ -40,89 +26,31 @@ This repository is still under development and I will continue to add more featu
 <img src="https://user-images.githubusercontent.com/35039342/55468561-4a2ec780-5621-11e9-806c-69861f6bee32.png" alt="edit profile example" width = "400" >
 <img src="https://user-images.githubusercontent.com/35039342/55468603-5b77d400-5621-11e9-9ca7-5f4f421f400f.png" alt="comment and activity feed example" width = "400">
   
-<img src="https://user-images.githubusercontent.com/35039342/55468625-6a5e8680-5621-11e9-8116-5561bcf61d1b.png" alt="comment and activity feed example" width = "400">
-<img src="https://user-images.githubusercontent.com/35039342/55468657-7a766600-5621-11e9-9e52-d36c1cc623b2.png" alt="comment and activity feed example" width = "400">
-<img src="https://user-images.githubusercontent.com/35039342/55468682-89f5af00-5621-11e9-9342-6993058350ad.png" alt="comment and activity feed example" width = "400">
-<img src="https://user-images.githubusercontent.com/35039342/55468729-a09c0600-5621-11e9-9f15-c20d87fce2a1.png" alt="comment and activity feed example" width = "400">
-<img src="https://user-images.githubusercontent.com/35039342/55468755-adb8f500-5621-11e9-99fc-92ba57dcb268.png" alt="comment and activity feed example" width = "400">
-
 </p>
 
 
 ## Getting started
 
 
-#### 1. [Setup Flutter](https://flutter.io/setup/)
+#### 1. open pubspec.yaml file & under dependencies add scratcher package
+
+dependencies:
+  scratcher: ^ #latest version
 
 #### 2. Clone the repo
 
-```sh
 $ git clone https://github.com/mohak1283/Instagram-Clone
-$ cd Instagram-Clone/
-```
 
-#### 3. Setup the firebase app
-
-1. You'll need to create a Firebase instance. Follow the instructions at https://console.firebase.google.com.
-2. Once your Firebase instance is created, you'll need to enable anonymous authentication.
-
-* Go to the Firebase Console for your new instance.
-* Click "Authentication" in the left-hand menu
-* Click the "sign-in method" tab
-* Click "Google" and enable it
+#### 3. include important files
+- we don't include some files like android,build so kindly create your own project and copy lib file.
 
 
-4. Enable the Firebase Database
-* Go to the Firebase Console
-* Click "Database" in the left-hand menu
-* Click the Cloudstore "Create Database" button
-* Select "Start in test mode" and "Enable"
-
-5. (skip if not running on Android)
-
-* Create an app within your Firebase instance for Android, with package name com.mohak.instagram
-* Run the following command to get your SHA-1 key:
-
-```
-keytool -exportcert -list -v \
--alias androiddebugkey -keystore ~/.android/debug.keystore
-```
-
-* In the Firebase console, in the settings of your Android app, add your SHA-1 key by clicking "Add Fingerprint".
-* Follow instructions to download google-services.json
-* place `google-services.json` into `/android/app/`.
-
-
-6. (skip if not running on iOS)
-
-* Create an app within your Firebase instance for iOS, with your app package name
-* Follow instructions to download GoogleService-Info.plist
-* Open XCode, right click the Runner folder, select the "Add Files to 'Runner'" menu, and select the GoogleService-Info.plist file to add it to /ios/Runner in XCode
-* Open /ios/Runner/Info.plist in a text editor. Locate the CFBundleURLSchemes key. The second item in the array value of this key is specific to the Firebase instance. Replace it with the value for REVERSED_CLIENT_ID from GoogleService-Info.plist
-
-Double check install instructions for both
-   - Google Auth Plugin
-     - https://pub.dartlang.org/packages/firebase_auth
-   - Firestore Plugin
-     -  https://pub.dartlang.org/packages/cloud_firestore
-
-# Upcoming Features
- -  Notificaitons for likes, comments, follows, etc
- -  Caching of Profiles, Images, Etc.
- -  Filters support for images
- -  Videos support
- -  Custom Camera Implementation
- -  Heart Animation when liking image
- -  Delete Posts
- -  Stories
- -  Send post to chats
  
  ## Questions?🤔
  
  Hit me on
  
-<a href="https://twitter.com/mohak_gupta20"><img src="https://user-images.githubusercontent.com/35039342/55471524-8e24cb00-5627-11e9-9389-58f3d4419153.png" width="60"></a>
-<a href="https://www.linkedin.com/in/mohak-gupta-885669131/"><img src="https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png" width="60"></a>
+<a href="https://www.linkedin.com/in/abdul-hanan-ansari-73922b215"><img src="https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png" width="60"></a>
 
 
 ## How to Contribute
